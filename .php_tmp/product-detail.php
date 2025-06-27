@@ -1,3 +1,0 @@
-<?php include 'includes/header.php'; ?>
-// ... existing code ...
-<?php include 'includes/footer.php'; ?>
