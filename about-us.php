@@ -86,6 +86,27 @@
                 </div>
             </div>
         </div><!-- /.page-title -->
+            <section class="py-5 text-center bg-light" >
+            <div class="" style="padding:0px 30px 0px 30px">
+                <div class="mx-auto" style="">
+                <h3 class="mb-4 fw-bold wow fadeInUp">
+                Empowering Visionaries. Accelerating Growth.
+                </h3>
+                
+                                <p >
+                                At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
+                through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
+                design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
+                confidence and purpose.
+                With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
+                business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
+                to ensure your business is investor-ready and growth-aligned.
+                Whether you're raising your first round or expanding into new markets, we’re here to guide you through
+                every step of the journey — with insight, precision, and commitment.
+                                </p>
+                </div>
+            </div>
+            </section>
 
         <!-- Main-content -->
         <div class="main-content">
@@ -194,6 +215,17 @@
                                                     <br>expert consulting. Our industry professionals drive growth and guide you through
                                                     <br>challenges to achieve success.
                                                 </div>
+                                                <h4 class="title-section mb-28 text-anime-wave">
+                                                 What Sets Impact Nest Apart?
+                                                </h4>
+                                                <div class="sub-title mb-32 text-anime-wave">
+                                                   Impact Nest is your one-stop destination for business growth. We offer </br>  a seamless
+blend of strategy, fundraising, financial modelling,  and pitch </br> design  — all under one
+roof. What sets us apart  is our ability  to deliver </br>  end-to-end solutions tailored to your
+stage, sector,  and vision. </br> With a founder-first approach  and a commitment to
+measurable  outcomes, </br> we simplify your  growth journey and  help you scale with
+confidence.
+                                                </div>
                                                 <div class="text-anime-wave">
                                                     <a href="about-us.php" class="tf-btn style-1 bg-on-suface-container">
                                                         <span>
@@ -201,6 +233,7 @@
                                                         </span>
                                                     </a>
                                                 </div>
+                                             
                                             </div>
                                             <div class="wg-counter style-column g-40">
                                                 <div class="counter-item">
@@ -281,18 +314,24 @@
                                             <div class="tab-content">
                                                 <div class="tab-pane active show" id="expertise" role="tabpanel">
                                                     <p class="text">
-                                                        Our team of experts delivers tailored insights and solutions, guiding you through complex challenges. Partner with us for impactful results and reliable support on your path to success.
-                                                    </p>
+At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
+delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
+We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and
+unwavering commitment to long-term success.                                                    </p>
                                                 </div>
                                                 <div class="tab-pane" id="innovation" role="tabpanel">
                                                     <p class="text">
-                                                        Our team of experts delivers tailored insights and solutions, guiding you through complex challenges. Partner with us for impactful results and reliable support on your path to success.
-                                                    </p>
+Our mission is to empower founders with the right tools, insights, and capital to grow
+their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
+modelling, and pitch design—bridging the gap between business vision and investor expectations.
+Through every stage, we remain focused on delivering real value and measurable outcomes.                                                    </p>
                                                 </div>
                                                 <div class="tab-pane" id="commitment" role="tabpanel">
                                                     <p class="text">
-                                                        Our team of experts delivers tailored insights and solutions, guiding you through complex challenges. Partner with us for impactful results and reliable support on your path to success.
-                                                    </p>
+At the heart of Impact Nest are our core values: Commitment to every client’s journey,
+Innovation in every solution we offer, and Expertise that drives informed decisions. We believe in
+integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
+and the success we help create for each business we support.                                                    </p>
                                                 </div>
                                             </div>
                                         </div>

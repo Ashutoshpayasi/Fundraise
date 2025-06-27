@@ -43,7 +43,7 @@
                         $(".header-sticky").css("top", `-${navbarHeight}px`);
                     } else if (st < lastScrollTop - delta) {
                         $(".header-sticky").css("top", "0");
-                        $(".header-sticky").addClass("header-bg");
+                        // $(".header-sticky").addClass("header-bg");
                     }
                 } else {
                     $(".header-sticky").css("top", "unset");

@@ -74,12 +74,12 @@
                                     <div class="col-12">
                                         <div class="page-title-content">
                                             <h1 class="tf-fade-top fade-item-1">
-                                                Empowering Change, One Donation at a Time
+                                                Empowering your Business
                                             </h1>
                                             <div class="sub-title body-2 tf-fade-top fade-item-2">
-                                                Join our fundraising community to support life-changing causes and make a real impact.
+                                                Unlock you Business potential with personlised planning and expert advice tailored to your goals. 
                                             </div>
-                                            <a href="#" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
+                                            <a href="/about-us.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
                                                 <span>Start Fundraising</span>
                                             </a>
                                         </div>
@@ -95,13 +95,13 @@
                                     <div class="col-12">
                                         <div class="page-title-content">
                                             <h1 class="tf-fade-top fade-item-1">
-                                                Support a Cause, Change a Life
+                                                Build Bold. Pitch Smart. Grow Fast
                                             </h1>
                                             <div class="sub-title body-2 tf-fade-top fade-item-2">
-                                                Your generosity fuels hope and creates brighter futures for those in need.
+                                              From strategy to funding decks, we help businesses scale with confidence and clarity.
                                             </div>
-                                            <a href="#" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
-                                                <span>Donate Now</span>
+                                            <a href="/services-details-4.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
+                                                <span>Get Started</span>
                                             </a>
                                         </div>
                                     </div>
@@ -109,6 +109,28 @@
                             </div>
                         </div>
                     </div>
+                     <div class="swiper-slide">
+                        <div class="page-title-inner">
+                            <div class="tf-container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="page-title-content">
+                                            <h1 class="tf-fade-top fade-item-1">
+                                                Let’s Build Your Growth Story
+                                            </h1>
+                                            <div class="sub-title body-2 tf-fade-top fade-item-2">
+                                                Connect with us for expert fundraising, strategic planning, financial modelling, and pitch deck design
+                                            </div>
+                                            <a href="/contact-us.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
+                                                <span>Contact Us</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="tf-btn-arrow arrow-left sw-auto-next">
                     <i class="icon-arrow-left"></i>
@@ -525,7 +547,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row rg-30">
+                    <!-- <div class="row rg-30">
                         <div class="col-lg-3 col-sm-6">
                             <div class="process-item step-hover">
                                 <div class="process-top wow fadeInUp">
@@ -643,7 +665,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section><!-- /.section-process -->
 
@@ -882,34 +904,38 @@
                                 <div class="right">
                                     <div class="wg-according" id="According">
                                         <div class="according-item">
-                                            <h5><a href="#according-1" data-bs-toggle="collapse" class="title-according collapsed">How do I start a fundraising campaign? <span></span></a></h5>
+                                            <h5><a href="#according-1" data-bs-toggle="collapse" class="title-according collapsed">When is the right time to start fundraising? <span></span></a></h5>
                                             <div id="according-1" class="collapse" data-bs-parent="#According">
                                                 <div class="according-content">
-                                                    <p>Simply sign up, create your campaign, and share it with your network. Our tools make it easy to get started!</p>
+                                                    <p>Start fundraising when you have a clear business model, validated market need, and strong
+financial projections. We help you assess readiness and prepare accordingly.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="according-item">
-                                            <h5><a href="#according-2" data-bs-toggle="collapse" class="title-according">Is my donation secure?<span></span></a></h5>
+                                            <h5><a href="#according-2" data-bs-toggle="collapse" class="title-according">What do investors look for in a startup?<span></span></a></h5>
                                             <div id="according-2" class="collapse show" data-bs-parent="#According">
                                                 <div class="according-content">
-                                                    <p>Yes, we use industry-leading security to protect your information and ensure your donation reaches its intended cause.</p>
+                                                    <p>Investors focus on market opportunity, team strength, business scalability, traction, and clear
+financials. A strong pitch deck and solid projections are crucial.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="according-item">
-                                            <h5><a href="#according-3" data-bs-toggle="collapse" class="title-according collapsed">Can I track the progress of a campaign?<span></span></a></h5>
+                                            <h5><a href="#according-3" data-bs-toggle="collapse" class="title-according collapsed">How can Impact Nest support my fundraising journey?<span></span></a></h5>
                                             <div id="according-3" class="collapse" data-bs-parent="#According">
                                                 <div class="according-content">
-                                                    <p>Absolutely! Each campaign page shows real-time updates and progress so you can see the impact of your support.</p>
+                                                    <p>We offer end-to-end support — from fundraising strategy and investor targeting to pitch deck
+creation and negotiation support.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="according-item">
-                                            <h5><a href="#according-4" data-bs-toggle="collapse" class="title-according collapsed">How do I contact support?<span></span></a></h5>
+                                            <h5><a href="#according-4" data-bs-toggle="collapse" class="title-according collapsed">Why is financial modelling important before raising funds?<span></span></a></h5>
                                             <div id="according-4" class="collapse" data-bs-parent="#According">
                                                 <div class="according-content">
-                                                    <p>You can reach our support team anytime through the Contact Support button or by emailing us directly.</p>
+                                                    <p>It provides a clear view of your financial health, growth potential, and valuation — helping investors
+trust your numbers and vision.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -938,12 +964,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="swiper sw-new sw-layout" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="0" data-space-md="0" data-space="0">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
+           <div class="container  ">
+
+                    <div class="">
+                        <div class="  ">
+                            <div class=" swiper sw-new sw-layout" data-preview="3" data-tablet="2" data-mobile-sm="2" data-mobile="1" data-space-lg="0" data-space-md="0" data-space="0">
+                                <div class="row swiper-wrapper">
+                                    <div class="col swiper-slide">
                                         <div class="tf-post-grid style-small hover-img">
                                             <div class="image">
                                                 <img src="image/blog/tf-post-grid-13.jpg" alt="Blog 1" class="lazyload">
@@ -962,7 +989,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="col swiper-slide">
                                         <div class="tf-post-grid style-small hover-img">
                                             <div class="image">
                                                 <img src="image/blog/tf-post-grid-8.jpg" alt="Blog 2" class="lazyload">
@@ -981,7 +1008,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <!-- <div class="swiper-slide">
                                         <div class="tf-post-grid style-small hover-img">
                                             <div class="image">
                                                 <img src="image/blog/tf-post-grid-14.jpg" alt="Blog 3" class="lazyload">
@@ -999,7 +1026,7 @@
                                                 <div class="sub-title">Explore the journeys of campaigns that reached their goals.</div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

@@ -7,7 +7,13 @@
                             <div class="footer-left">
                                 <div class="logo-footer">
                                     <a href="index-2.php" class="logo">
-                                        <img src="image/logo/logo-footer.svg" alt="">
+                                         <!-- <img 
+    src="/logo/logo-footer.png" 
+    alt="Logo" 
+    class="img-fluid" 
+    style="width: 130px; filter: brightness(0) invert(1);"
+  > -->
+                                        <img     style="width: 100px; filter: brightness(0) invert(1);" src="image/logo/logo-footer.png" alt="">
                                     </a>
                                 </div>
                                 <div class="text caption-1">
@@ -63,9 +69,9 @@
                                     <div class="tf-collapse-content">
                                         <ul>
                                             <li class="support-item-footer caption-1"><a href="about-us.php">About Us</a></li>
-                                            <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li>
+                                            <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
                                             <li class="support-item-footer caption-1"><a href="#">My Account</a></li>
-                                            <li class="support-item-footer caption-1"><a href="blog-left-sidebar.php">Blog</a></li>
+                                            <li class="support-item-footer caption-1"><a href="#">Team Teams & Our Experts</a></li>
                                             <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li>
                                             <li class="support-item-footer caption-1"><a href="contact-us.php">Contact</a></li>
                                         </ul>

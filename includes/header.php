@@ -1,16 +1,22 @@
 
 
         <!-- Header -->
-        <header class="header style-1 style-absolute header-sticky" id="header">
+        <header class="header style-1 style-absolute " id="header">
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
                         <div class="header-content">
                             <div class="header-left">
                                 <div class="logo">
-                                    <a href="index.php">
-                                        <img src="image/logo/logo.svg" alt="">
-                                    </a>
+                                  <a href="index.php">
+  <img 
+    src="image/logo/logo.png" 
+    alt="Logo" 
+    class="img-fluid" 
+    style="width: 130px; filter: brightness(0) invert(1);"
+  >
+</a>
+
                                 </div>
                                 <nav class="main-menu">
                                     <ul class="menu-primary-menu">
@@ -26,10 +32,10 @@
                                             <a href="#" class="item-link">Services</a>
                                             <ul class="sub-menu">
                                                 <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">About Us</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Our Teams</a></li>
+                                                <li class="sub-menu-item"><a href="/our-teams.php" class="item-link-2">Our Teams</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Industries</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Pricing</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Testimonials</a></li>
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Testimonials</a></li> -->
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Gallery</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Faq</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Career</a></li>

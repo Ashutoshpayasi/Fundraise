@@ -896,7 +896,7 @@
                             <div class="heading-section style-2 mb-40">
                                 <div class="left">
                                     <div class="text-anime-wave">
-                                        <a href="#" class="tag label text-btn-uppercase">steps to success</a>
+                                        <a href="#" class="tag label text-btn-uppercase">steps to succesdcdsss</a>
                                     </div>
                                     <h3 class="title-section text-anime-wave">
                                         Pathway to Success
