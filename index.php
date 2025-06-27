@@ -524,6 +524,59 @@
             </section><!-- /.section-services -->
 
             <!-- Section-process -->
+
+             <section class="py-5 bg-light text-center">
+  <div class="container">
+    <h2 class="mb-3 fw-bold">WE ARE IMPACT NEST</h2>
+    <h5 class="mb-4">
+      We are FinWice — We Are Impact Nest with 8+ Years of Business Planning Expertise
+    </h5>
+
+    <div class="row g-4">
+      <!-- Card 1 -->
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="p-4 bg-white border rounded h-100 shadow-sm">
+          At Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
+          tailored strategies and solutions for your financial success and security.
+        </div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="p-4 bg-white border rounded h-100 shadow-sm">
+          <strong>Expertise:</strong> At Impact Nest, expertise is at the core of everything we do. We bring deep domain
+          knowledge, analytical precision, and years of industry experience to every project. Our team is
+          committed to continuous learning, sharp execution, and delivering insights that lead to strategic
+          advantage and measurable success for our clients.
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="p-4 bg-white border rounded h-100 shadow-sm">
+          <strong>Innovation:</strong> At Impact Nest, our mission is to drive innovation in business consulting by delivering
+          forward-thinking solutions in fundraising, strategy, financial modelling, and pitch design. We strive to
+          empower startups and growth-stage companies with creative, data-driven approaches that break
+          convention and unlock new possibilities.
+        </div>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="p-4 bg-white border rounded h-100 shadow-sm">
+          <strong>Commitment:</strong> At Impact Nest, our vision is to redefine business growth through unwavering
+          commitment to our clients' success. We aim to be the trusted partner who stands by every
+          entrepreneur and enterprise — committed to delivering excellence in strategy, fundraising, financial
+          modelling, and impactful storytelling that drives real results.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
             <section class="section-process h-1 tf-spacing-2 hover-active-step">
                 <div class="tf-container">
                     <div class="row">
@@ -753,7 +806,9 @@
             </section><!-- /.section-project -->
 
             <!-- Section-testimonials -->
-            <section class="section-testimonials h-1 tf-spacing-2">
+            <!-- /.section-testimonials -->
+
+              <section class="section-testimonials h-1 tf-spacing-2">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">

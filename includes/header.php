@@ -20,18 +20,18 @@
                                 </div>
                                 <nav class="main-menu">
                                     <ul class="menu-primary-menu">
-                                        <li class="menu-item menu-item-has-children current-menu-item">
+                                        <li class="menu-item  current-menu-item">
                                             <a href="#"  class="item-link">Home </a>
                                             
                                         </li>
-                                        <li class="menu-item menu-item-has-children position-relative">
+                                        <li class="menu-item position-relative">
                                             <a href="#" class="item-link">About</a>
                                           
                                         </li>
                                         <li class="menu-item menu-item-has-children position-relative">
                                             <a href="#" class="item-link">Services</a>
                                             <ul class="sub-menu">
-                                                <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">About Us</a></li>
+                                                <!-- <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">About Us</a></li> -->
                                                 <li class="sub-menu-item"><a href="/our-teams.php" class="item-link-2">Our Teams</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Industries</a></li>
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Pricing</a></li>
