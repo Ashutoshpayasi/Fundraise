@@ -89,7 +89,7 @@
             <section class="py-5 text-center bg-light" >
             <div class="" style="padding:0px 30px 0px 30px">
                 <div class="mx-auto" style="">
-                <h3 class="mb-4 fw-bold wow fadeInUp">
+                <h3 class="mb-4 fw-bold wow fadeInUp"  style="text-align:center;font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
                 Empowering Visionaries. Accelerating Growth.
                 </h3>
                 
@@ -98,15 +98,66 @@
                 through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
                 design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
                 confidence and purpose.
+                <br>
                 With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
                 business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
                 to ensure your business is investor-ready and growth-aligned.
+                <br>
                 Whether you're raising your first round or expanding into new markets, we’re here to guide you through
                 every step of the journey — with insight, precision, and commitment.
                                 </p>
                 </div>
             </div>
             </section>
+
+
+            <section style="padding: 40px; background-color: #f9f9f9;">
+    <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align:center;font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
+    Expertise.Innovation.Commitment.
+    </h3>
+
+    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="margin-top: 0; color: #2980b9;">Vision</h4>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+            At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
+            delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
+            We aim to redefine how founders scale their ventures by combining deep expertise, innovation,
+            and unwavering commitment to long-term success.
+        </p>
+    </div>
+
+    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="margin-top: 0; color: #2980b9;">Mission</h4>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+            Our mission is to empower founders with the right tools, insights, and capital to grow
+            their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
+            modelling, and pitch design—bridging the gap between business vision and investor expectations.
+            Through every stage, we remain focused on delivering real value and measurable outcomes.
+        </p>
+    </div>
+
+    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="margin-top: 0; color: #2980b9;">Values</h4>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+            At the heart of Impact Nest are our core values: Commitment to every client’s journey,
+            Innovation in every solution we offer, and Expertise that drives informed decisions.
+            We believe in integrity, collaboration, and a results-driven mindset. These values shape our work,
+            our relationships, and the success we help create for each business we support.
+        </p>
+    </div>
+
+    <div style="padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4 style="margin-top: 0; color: #2980b9;">What Sets Impact Nest Apart?</h4>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+            Impact Nest is your one-stop destination for business growth. We offer a seamless
+            blend of strategy, fundraising, financial modelling, and pitch design — all under one
+            roof. What sets us apart is our ability to deliver end-to-end solutions tailored to your
+            stage, sector, and vision. With a founder-first approach and a commitment to
+            measurable outcomes, we simplify your growth journey and help you scale with
+            confidence.
+        </p>
+    </div>
+</section>
 
         <!-- Main-content -->
         <div class="main-content">
@@ -782,7 +833,7 @@ and the success we help create for each business we support.                    
             </section><!-- /.section-cta -->
 
             <!-- Section-awards -->
-            <section class="section-awards h-1 tf-spacing-2">
+            <!-- <section class="section-awards h-1 tf-spacing-2">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
@@ -815,7 +866,8 @@ and the success we help create for each business we support.                    
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-awards -->
+            </section> -->
+            <!-- /.section-awards -->
 
         </div>
         <!-- /.main-content -->

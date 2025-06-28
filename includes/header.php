@@ -25,21 +25,21 @@
                                             
                                         </li>
                                         <li class="menu-item position-relative">
-                                            <a href="#" class="item-link">About</a>
+                                            <a href="/our-services-1.php" class="item-link">About</a>
                                           
                                         </li>
                                         <li class="menu-item menu-item-has-children position-relative">
                                             <a href="#" class="item-link">Services</a>
-                                            <ul class="sub-menu">
-                                                <!-- <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">About Us</a></li> -->
-                                                <li class="sub-menu-item"><a href="/our-teams.php" class="item-link-2">Our Teams</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Industries</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Pricing</a></li>
+                                            <ul  class="sub-menu">
+                                                <li class="sub-menu-item"><a href="about-us.php" class="item-link-2">Services</a></li>
+                                                <li class="sub-menu-item"><a href="/our-teams.php" class="item-link-2">Our Teams & Industry</a></li>
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Industries</a></li> -->
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Pricing</a></li> -->
                                                 <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Testimonials</a></li> -->
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Gallery</a></li>
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Gallery</a></li> -->
                                                 <li class="sub-menu-item"><a href="#" class="item-link-2">Faq</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Career</a></li>
-                                                <li class="sub-menu-item"><a href="#" class="item-link-2">Coming Soon</a></li>
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Career</a></li> -->
+                                                <!-- <li class="sub-menu-item"><a href="#" class="item-link-2">Coming Soon</a></li> -->
                                                 
                                             </ul>
                                         </li>
@@ -47,7 +47,7 @@
                                        
                                     
                                         <li class="menu-item">
-                                            <a href="contact-us.php" class="item-link">Contact</a>
+                                            <a href="/contact-us.php" class="item-link">Contact</a>
                                         </li>
                                     </ul>
                                 </nav>
