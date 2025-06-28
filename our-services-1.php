@@ -142,7 +142,7 @@
         </div><!-- /.top-bar -->
 
         <!-- Header -->
-        <header class="header style-1 style-absolute header-sticky" id="header">
+        <!-- <header class="header style-1 style-absolute header-sticky" id="header">
             <div class="tf-container w-1870">
                 <div class="row">
                     <div class="col-12">
@@ -399,7 +399,8 @@
                     </div>
                 </div>
             </div>
-        </header><!-- /.header -->
+        </header> -->
+        <!-- /.header -->
 
         <!-- Page-title -->
         <div class="page-title style-1 bg-img-5">
@@ -436,129 +437,464 @@
         <div class="main-content">
 
             <!-- Section-services -->
-            <section class="section-services h-2 tf-spacing-31">
-                <div class="tf-container">
+            <section class="sectin-service h-2 tf-spacing-31">
+                <div class="tf-containr">
                     <div class="row">
                         <div class="col-12">
-                            <div class="heading-section text-center">
-                                <div class="text-anime-wave-1">
-                                    <a href="#" class="tag label text-btn-uppercase">Our Services</a>
-                                </div>
-                                <h3 class="title-section text-anime-wave-1 mb-12">
-                                    Solutions for Your Growth
-                                </h3>
-                                <div class="sub-title body-2 text-anime-wave-1">
-                                    Tailored solutions to drive your business growth and success.
-                                </div>
-                            </div>
-                            <div class="sw-services-list swiper sw-layout" data-preview="4" data-tablet="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="10">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-strategic-planning"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Strategic Planning
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Develop and implement long-term plans to achieve business goals. This includes market analysis, internal assessments, and strategic development.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-operational-efficiency"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Operational Efficiency
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Optimize processes and operations to improve performance and reduce costs. Services include process analysis and performance enhancement.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-market-research"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Market Research
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Provide insights and analysis on market trends, customers, and competitors to inform business decisions. Includes market surveys and trend analysis.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-change-management"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Change Management
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Manage and support organizational changes to ensure smooth transitions. Services involve change planning, employee training, and implementation support.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-strategic-planning"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Strategic Planning
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Develop and implement long-term plans to achieve business goals. This includes market analysis, internal assessments, and strategic development.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="services-item">
-                                            <div class="icon color-primary mb-12">
-                                                <i class="icon-operational-efficiency"></i>
-                                            </div>
-                                            <div class="services-content">
-                                                <h5>
-                                                    <a href="services-details-1.php" class="title-services">
-                                                        Operational Efficiency
-                                                    </a>
-                                                </h5>
-                                                <div class="sub-title">
-                                                    Optimize processes and operations to improve performance and reduce costs. Services include process analysis and performance enhancement.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sw-pagination-layout">
-                                </div>
-                            </div>
+                        <section style=" padding: 100px 50px; font-family: Arial, sans-serif;">
+  <div style=" margin: 0 auto;">
+    <h2 style="text-align: center; font-size: 46px; color: #222; margin-bottom: 60px; border-bottom: 3px solid #000;">
+      What We Offer
+    </h2>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+
+      <!-- Card 1 -->
+      <div style="flex: 1 1 calc(40% - 20px); background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); min-width: 250px;">
+        <div style="text-align: center; margin-bottom: 15px;">
+          <i class="bi bi-graph-up" style="font-size: 36px; color: #0d6efd;"></i>
+        </div>
+        <h4 style="font-size: 18px; margin-bottom: 10px;">Fundraising Strategy</h4>
+        Every successful round starts with the right strategy. We work with you to develop a capital raise
+roadmap — how much to raise, at what valuation, from whom, and for what purpose.
+<ul style="font-size: 14px; color: #555; list-style-type: disc; padding-left: 40px;">
+  <li>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+  Capital planning and fund utilization strategy</li>
+  <li>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+  Ideal investor profiling</li>
+  <li>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+  Timeline and milestone mapping</li>
+</ul>
+
+      </div>
+
+      <!-- Card 2 -->
+      <div style="flex: 1 1 calc(40% - 20px); background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); min-width: 250px;">
+        <div style="text-align: center; margin-bottom: 15px;">
+          <i class="bi bi-file-earmark-text" style="font-size: 36px; color: #20c997;"></i>
+        </div>
+        <h4 style="font-size: 18px;  margin-bottom: 10px;">Investor-Ready Materials</h4>
+        We prepare everything you need to impress investors and drive meaningful conversations.
+        <ul style="padding-left: 20px; font-size: 14px; color: #555;">
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Investor pitch deck design & development</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Business plan and executive summary</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          CFinancial model & valuation support</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Use of funds and cap table guidance</li>
+        </ul>
+      </div>
+
+      <!-- Card 3 -->
+      <div style="flex: 1 1 calc(40% - 20px); background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); min-width: 250px;">
+        <div style="text-align: center; margin-bottom: 15px;">
+          <i class="bi bi-people-fill" style="font-size: 36px; color: #fd7e14;"></i>
+        </div>
+        <h4 style="font-size: 18px;  margin-bottom: 10px;">IInvestor Outreach & Introductions</h4>
+        <ul style="padding-left: 20px; font-size: 14px; color: #555;">
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Curated investor database</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          PInvestor targeting strategy</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Pitch scheduling & feedback support</li>
+        </ul>
+      </div>
+
+      <!-- Card 4 -->
+      <div style="flex: 1 1 calc(40% - 20px); background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); min-width: 250px;">
+        <div style="text-align: center; margin-bottom: 15px;">
+          <i class="bi bi-handshake" style="font-size: 36px; color: #6f42c1;"></i>
+        </div>
+        <h4 style="font-size: 18px; margin-bottom: 10px;">Deal Structuring & Negotiation Support</h4>
+        From term sheets to closing conversations, we provide expert advisory throughout the deal cycle to
+protect your equity and ensure founder-friendly terms.
+        <ul style="padding-left: 20px; font-size: 14px; color: #555;">
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Term sheet analysis</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Negotiation support</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Equity and convertible instrument advisory</li>
+        </ul>
+      </div>
+
+      <!-- Card 5 -->
+      <div style="flex: 1 1 calc(40% - 20px); background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); min-width: 250px;">
+        <div style="text-align: center; margin-bottom: 15px;">
+          <i class="bi bi-infinity" style="font-size: 36px; color: #198754;"></i>
+        </div>
+        <h4 style="font-size: 18px; margin-bottom: 10px;">End-to-End Fundraising Support</h4>
+        Fundraising is a process, not a one-time event. We stay with you from preparation to closure, helping you
+refine your approach at every stage.
+        <ul style="padding-left: 20px; font-size: 14px; color: #555;">
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Full-cycle guidance</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Continuous refinement</li>
+          <li>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+  <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+</svg>  
+          Closure readiness</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+                      
+<section style="font-family: Arial, sans-serif; background: #f9fafb; padding: 60px 20px; max-width: 1800px; margin: 0 auto; color: #222;">
+
+  <!-- Section Heading -->
+  <h2 style="text-align: center; font-size: 36px; margin-bottom: 50px; font-weight: 700;">
+    Why Choose Impact Nest for Fundraising?
+  </h2>
+
+  <!-- Flex container for left and right sections -->
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+
+    <!-- Left Column: Reasons List -->
+    <div style="flex: 1 1 45%;  padding: 0 10px;">
+      <ul style="list-style: none; padding-left: 0; margin: 0; color: #444; font-size: 16px; line-height: 1.6;">
+        <!-- Each list item with icon and text -->
+        <li style="display: flex; align-items: center; padding: 15px 0; border-bottom: 1px solid #ccc;">
+          <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i>
+          Deep experience across startup and growth stages
+        </li>
+        <li style="display: flex; align-items: center; padding: 15px 0; border-bottom: 1px solid #ccc;">
+          <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i>
+          Strong investor network across sectors
+        </li>
+        <li style="display: flex; align-items: center; padding: 15px 0; border-bottom: 1px solid #ccc;">
+          <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i>
+          Founder-first approach with hands-on support
+        </li>
+        <li style="display: flex; align-items: center; padding: 15px 0; border-bottom: 1px solid #ccc;">
+          <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i>
+          Transparent, insight-driven processes
+        </li>
+        <li style="display: flex; align-items: center; padding: 15px 0;">
+          <i class="bi bi-check-circle-fill" style="color: #222; font-size: 22px; margin-right: 15px; flex-shrink: 0;"></i>
+          Proven results across multiple successful fundraises
+        </li>
+      </ul>
+    </div>
+
+    <!-- Right Column: Tailored Strategies -->
+    <div style="flex: 1 1 50%; min-width: 300px; padding: 0 10px;">
+      <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 20px; border-bottom: 2px solid #222; padding-bottom: 10px;">
+        Tailored Strategies
+      </h3>
+
+      <p style="font-size: 16px; color: #555; line-height: 1.6; text-align: justify; margin-bottom: 20px;">
+        At Impact Nest, we believe that no two businesses are alike — and neither should their growth plans be. That’s why we create <strong>Tailored Strategies</strong> — personalized, data-driven plans that align with your unique vision, industry landscape, and growth stage. Whether you’re launching a new venture, entering a new market, or preparing to raise capital, we help you move forward with clarity, confidence, and direction.
+      </p>
+
+      <p style="font-size: 16px; color: #555; line-height: 1.6; text-align: justify;">
+        Our approach combines market intelligence, operational insight, and strategic thinking to design actionable plans that fuel measurable outcomes. We don't just advise — we become your thinking partners in scaling smarter.
+      </p>
+    </div>
+
+  </div>
+
+</section>
+
+<!-- Bootstrap Icons CDN -->
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> -->
+
+
+<section style="font-family: Arial, sans-serif; padding: 60px 20px; width: 95%; box-sizing: border-box;margin:auto">
+
+  <!-- <h2 style="text-align: center; font-size: 36px; color: #000; margin-bottom: 50px;">
+   
+  </h2> -->
+
+  <h2 style="text-align: center; font-size: 36px; margin-bottom: 50px; font-weight: 700;">
+  Our Strategic Focus Areas
+  </h2>
+
+  <div style="
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 30px;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    box-sizing: border-box;
+  ">
+
+    <!-- Marketing Strategy -->
+    <div style="flex: 1 0 22%; min-width: 250px; box-sizing: border-box;">
+      <h3 style="font-size: 24px; color: #000; margin-bottom: 12px; border-bottom: 3px solid #000; padding-bottom: 6px;">
+        <i class="bi bi-megaphone-fill" style="margin-right: 8px; color: #000;"></i>Marketing Strategy
+      </h3>
+      <p style="color: #555; font-size: 15px; margin-bottom: 12px; line-height: 1.5;">
+        We help you reach the right audience with the right message at the right time.
+      </p>
+      <strong style="color: #000; font-size: 15px;">Our services include:</strong>
+      <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+        <li>Go-to-market (GTM) planning</li>
+        <li>Brand positioning &amp; messaging frameworks</li>
+        <li>Digital &amp; content marketing strategy</li>
+        <li>Target audience profiling &amp; channel selection</li>
+        <li>Lead generation and funnel design</li>
+      </ul>
+    </div>
+
+    <!-- Financing Strategy -->
+    <div style="flex: 1 0 22%; min-width: 250px; box-sizing: border-box;">
+      <h3 style="font-size: 24px; color: #000; margin-bottom: 12px; border-bottom: 3px solid #000; padding-bottom: 6px;">
+        <i class="bi bi-currency-dollar" style="margin-right: 8px; color: #000;"></i>Financing Strategy
+      </h3>
+      <p style="color: #555; font-size: 15px; margin-bottom: 12px; line-height: 1.5;">
+        We prepare you for capital efficiency and investor readiness.
+      </p>
+      <strong style="color: #000; font-size: 15px;">Our services include:</strong>
+      <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+        <li>Fundraising roadmaps and capital planning</li>
+        <li>Valuation support and cap table advisory</li>
+        <li>Financial structuring (equity, debt, convertible instruments)</li>
+        <li>Financial modelling aligned with funding milestones</li>
+        <li>Scenario planning and runway analysis</li>
+      </ul>
+    </div>
+
+    <!-- Business Development Strategy -->
+    <div style="flex: 1 0 22%; min-width: 250px; box-sizing: border-box;">
+      <h3 style="font-size: 24px; color: #000; margin-bottom: 12px; border-bottom: 3px solid #000; padding-bottom: 6px;">
+        <i class="bi bi-briefcase-fill" style="margin-right: 8px; color: #000;"></i>Business Development Strategy
+      </h3>
+      <p style="color: #555; font-size: 15px; margin-bottom: 12px; line-height: 1.5;">
+        We help unlock new revenue streams and partnerships.
+      </p>
+      <strong style="color: #000; font-size: 15px;">Our services include:</strong>
+      <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+        <li>Sales strategy and market entry plans</li>
+        <li>Strategic partnerships and channel development</li>
+        <li>Product-market fit refinement</li>
+        <li>Pricing and revenue model optimization</li>
+        <li>Client onboarding and retention planning</li>
+      </ul>
+    </div>
+
+    <!-- Business Documentation Strategy -->
+    <div style="flex: 1 0 22%; min-width: 250px; box-sizing: border-box;">
+      <h3 style="font-size: 24px; color: #000; margin-bottom: 12px; border-bottom: 3px solid #000; padding-bottom: 6px;">
+        <i class="bi bi-file-earmark-text-fill" style="margin-right: 8px; color: #000;"></i>Business Documentation Strategy
+      </h3>
+      <p style="color: #555; font-size: 15px; margin-bottom: 12px; line-height: 1.5;">
+        We create the critical documents needed to build trust and close deals.
+      </p>
+      <strong style="color: #000; font-size: 15px;">Our services include:</strong>
+      <ul style="color: #555; font-size: 14px; padding-left: 18px; margin-top: 6px; line-height: 1.4;">
+        <li>Pitch decks and investor presentations</li>
+        <li>Business plans and executive summaries</li>
+        <li>Financial projections and use-of-funds documentation</li>
+        <li>Company profiles and service brochures</li>
+        <li>Internal SOPs and operational playbooks</li>
+      </ul>
+    </div>
+
+  </div>
+
+</section>
+
+
+
+
+<section style="font-family: Arial, sans-serif; background: #fff; padding: 60px 40px; width: 100%; box-sizing: border-box; color: #222; margin: 0 auto;">
+
+  <!-- Other content (Financial Modelling sections) unchanged -->
+
+  <h2 style="font-size: 36px; font-weight: 700; text-align: center; margin-bottom: 50px; border-bottom: 3px solid #000; padding-bottom: 12px;">
+    Financial Modelling & Deck Design
+  </h2>
+
+  <p style="font-size: 17px; line-height: 1.7; color: #444; margin-bottom: 40px; text-align: justify;">
+    At Impact Nest, we build powerful, reliable, and investor-ready financial models that bring structure to your growth story. Whether you’re preparing for fundraising, planning market expansion, or optimizing operations, our financial modelling service delivers the insights, projections, and validation you need to make bold, confident business decisions. Our models are not just spreadsheets — they’re strategic tools designed to reflect your business realities, project future performance, and communicate value to stakeholders and investors.
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; margin: 0 auto;">
+
+  <!-- What We Offer -->
+  <div style="flex: 1 1 30%; min-width: 280px; box-sizing: border-box;">
+    <h3 style="font-size: 28px; font-weight: 600; margin-bottom: 20px; border-left: 5px solid #000; padding-left: 15px; border-bottom: 3px solid #000;">
+      What We Offer
+    </h3>
+    <ul style="list-style-type: disc; padding-left: 30px; margin-bottom: 50px; color: #555; font-size: 15px; line-height: 1.5;">
+      <li><strong>Custom Financial Models:</strong> Tailored models that reflect your unique business model, revenue streams, and cost structures. We go beyond templates to build fully customized tools.</li>
+      <li><strong>Revenue & Cost Forecasting:</strong> Accurate and dynamic forecasts that take into account market conditions, pricing strategies, operational scaling, and product growth.</li>
+      <li><strong>Scenario & Sensitivity Analysis:</strong> We stress-test your assumptions with best-case, base-case, and worst-case outcomes — helping you plan for every possibility.</li>
+      <li><strong>Valuation Support:</strong> We help you estimate fair valuation ranges based on DCF (Discounted Cash Flow), multiples, or industry benchmarks — crucial for investor discussions.</li>
+      <li><strong>Investor-Ready Financials:</strong> Clean, easy-to-understand outputs aligned with investor expectations — including P&L, Balance Sheet, Cash Flow, Cap Table, and Unit Economics.</li>
+      <li><strong>Model Iteration & Review:</strong> We stay with you through pitch revisions, investor feedback, and multiple fundraising rounds — updating your model as your business evolves.</li>
+    </ul>
+  </div>
+
+  <!-- Why Financial Modelling Matters -->
+  <div style="flex: 1 1 30%; min-width: 280px; box-sizing: border-box;">
+    <h3 style="font-size: 28px; font-weight: 600; margin-bottom: 20px; border-left: 5px solid #000; padding-left: 15px;">
+      Why Financial Modelling Matters
+    </h3>
+    <ul style="list-style-type: square; padding-left: 30px; margin-bottom: 50px; color: #555; font-size: 15px; line-height: 1.5;">
+      <li><strong>Informed Decision-Making</strong> – Make smarter business and fundraising decisions based on real data and sound projections.</li>
+      <li><strong>Investor Confidence</strong> – Well-structured models build credibility and trust in your numbers.</li>
+      <li><strong>Strategic Planning</strong> – Align team goals, funding needs, and operational execution to a financial roadmap.</li>
+      <li><strong>Risk Management</strong> – Test assumptions, identify weak spots, and prepare for market fluctuations.</li>
+    </ul>
+  </div>
+
+
+</div>
+<!-- 
+<  <h2 style="font-size: 36px; font-weight: 700; text-align: center; margin-bottom: 50px; border-bottom: 3px solid #000; padding-bottom: 12px;">
+    Deck Design
+  </h2>  -->
+  <!-- Deck Design with image -->
+  <div style="
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 60px 20px;
+  /* max-width: 1200px; */
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  gap: 40px;
+">
+
+  <!-- Left Column: Content -->
+  <div style="flex: 1 1 100%;">
+
+    <!-- Intro Text -->
+    <h2 style="font-size: 34px; font-weight: bold; margin-bottom: 20px; color: #000;">
+      Deck Design
+    </h2>
+    <p style="font-size: 16px; line-height: 1.7; color: #444; margin-bottom: 16px;">
+      At Impact Nest, we craft powerful, investor-ready pitch decks and company profiles that tell your story with clarity, confidence, and impact. Whether you're raising your first round or preparing for Series A, a well-designed deck can be the difference between a missed opportunity and a signed term sheet.
+    </p>
+    <p style="font-size: 16px; line-height: 1.7; color: #444; margin-bottom: 32px;">
+      We combine strategic messaging, compelling design, and market-aligned content to ensure your deck speaks directly to what investors care about — vision, traction, financials, scalability, and the opportunity ahead.
+    </p>
+
+    <!-- What We Offer -->
+    <h3 style="font-size: 24px; margin-bottom: 20px; border-left: 5px solid rgb(0, 0, 0); padding-left: 12px;">
+      What We Offer
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 25px;">
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Narrative Development</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">We help define your story and turn complex ideas into a clear, engaging narrative.</p>
+      </div>
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Visual Design & Branding</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">Modern design that reflects your brand and ensures clarity on every slide.</p>
+      </div>
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Investor-Focused Content</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">We emphasize what investors care about — traction, market, and use of funds.</p>
+      </div>
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Content Strategy & Structuring</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">Slide flow: Intro → Problem → Solution → Market → Model → Financials → Ask.</p>
+      </div>
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Iterative Support & Revisions</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">We refine based on investor feedback and different fundraising rounds.</p>
+      </div>
+
+      <div style="flex: 1 1 45%; min-width: 280px;">
+        <strong>Multiple Formats & Versions</strong>
+        <p style="font-size: 14px; line-height: 1.6; color: #555;">Pitch decks, email decks, one-pagers — tailored to the context and audience.</p>
+      </div>
+
+    </div>
+
+    <!-- Why It Matters -->
+    <h3 style="font-size: 24px; margin: 50px 0 20px; border-left: 5px solid rgb(0, 0, 0); padding-left: 12px;">
+      Why a Strong Deck Matters
+    </h3>
+    <ul style="font-size: 15px; line-height: 1.8; color: #444; padding-left: 20px; list-style-type: square;">
+      <li><strong>First Impressions Count</strong> – Investors often decide within the first 5 slides.</li>
+      <li><strong>Tells Your Story Effectively</strong> – Elevates and simplifies your message.</li>
+      <li><strong>Builds Investor Confidence</strong> – Professional visuals and structure create trust.</li>
+      <li><strong>Drives Action</strong> – Leads to better meetings and faster funding decisions.</li>
+    </ul>
+  </div>
+
+  <!-- Right Column: Image -->
+  <!-- <div style="flex: 1 1 35%; min-width: 300px; text-align: center;">
+    <img 
+      src="https://www.shutterstock.com/image-photo/luxury-outdoor-deck-fire-pit-600nw-2417041719.jpg" 
+      alt="Deck Design Illustration" 
+      style="width: 100%; max-width: 500px; border-radius: 10px; object-fit: cover;"
+    />
+  </div> -->
+
+</div>
+
+
+
+  </div>
+
+</section>
+
+
                         </div>
                     </div>
                 </div>

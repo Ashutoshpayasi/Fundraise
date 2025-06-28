@@ -7,21 +7,16 @@
                             <div class="footer-left">
                                 <div class="logo-footer">
                                     <a href="index-2.php" class="logo">
-                                         <!-- <img 
-    src="/logo/logo-footer.png" 
-    alt="Logo" 
-    class="img-fluid" 
-    style="width: 130px; filter: brightness(0) invert(1);"
-  > -->
-                                        <img     style="width: 100px; filter: brightness(0) invert(1);" src="image/logo/logo-footer.png" alt="">
+                                        
+                                        <img     style="width: 200px; filter: brightness(0) invert(1);" src="image/logo/logo-footer.png" alt="">
                                     </a>
                                 </div>
-                                <div class="text caption-1">
+                                <!-- <div class="text caption-1">
                                     Welcome to your trusted financial partner! Explore
                                     <br>personalized strategies and expert guidance to secure
                                     <br>your financial future and achieve success.
-                                </div>
-                                <div class="contact-footer">
+                                </div> -->
+                                <!-- <div class="contact-footer">
                                     <div class="address contact-top contact-footer-content">
                                         <p class="caption-2">
                                             Our address
@@ -42,44 +37,87 @@
                                             <a href="#">example@gmail.com</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="footer-center">
-                                <div class="footer-content our-services footer-col-block">
+                                 <div class="footer-content our-services footer-col-block">
                                     <div class="title-mobile label text-btn-uppercase">
-                                        Categories
+                                    <p style="font-weight:600" >Pages</p>
                                         <i class="icon-arrow-51"></i>
                                     </div>
                                     <div class="tf-collapse-content">
                                         <ul>
-                                            <li class="support-item-footer caption-1"><a href="strategy-consulting.php">Strategy Consulting</a></li>
-                                            <li class="support-item-footer caption-1"><a href="index-2.php">Financial Advisory</a></li>
-                                            <li class="support-item-footer caption-1"><a href="services-details-1.php">Operational </a></li>
-                                            <li class="support-item-footer caption-1"><a href="services-details-2.php">Improvement</a></li>
-                                            <li class="support-item-footer caption-1"><a href="marketing-consulting.php">Marketing Strategy</a></li>
-                                            <li class="support-item-footer caption-1"><a href="digital-transformation.php">Digital Transformation</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="footer-content our-services footer-col-block">
-                                    <div class="title-mobile label text-btn-uppercase">
-                                        Quick Links
-                                        <i class="icon-arrow-51"></i>
-                                    </div>
-                                    <div class="tf-collapse-content">
-                                        <ul>
-                                            <li class="support-item-footer caption-1"><a href="about-us.php">About Us</a></li>
+                                            <li  class="support-item-footer caption-1"><a style="font-weight:600"  href="about-us.php">
+                                         
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z"/>
+</svg>About Us
+                                            
+                                            </a></li>
                                             <!-- <li class="support-item-footer caption-1"><a href="our-teams.php">Our Team</a></li> -->
-                                            <li class="support-item-footer caption-1"><a href="#">My Account</a></li>
-                                            <li class="support-item-footer caption-1"><a href="#">Team Teams & Our Experts</a></li>
-                                            <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li>
-                                            <li class="support-item-footer caption-1"><a href="contact-us.php">Contact</a></li>
+                                            <!-- <li class="support-item-footer caption-1"><a href="#">My Account</a></li> -->
+                                            
+                                            <li class="support-item-footer caption-1">
+                                                <a href="#" style="font-weight:600" >
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
+  <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/>
+</svg>    
+                                            Team Teams & Our Experts</a></li>
+                                            <!-- <li class="support-item-footer caption-1"><a href="case-studies-1.php">Case studies</a></li> -->
+                                            <li class="support-item-footer caption-1"><a style="font-weight:600"  href="contact-us.php">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+  <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+</svg>    
+                                            Contact</a></li>
                                         </ul>
                                     </div>
                                 </div>
+                           
+                               
                             </div>
                             <div class="footer-right">
-                                <div class="footer-subscribe">
+                                     <div class="footer-content our-services footer-col-block">
+                                    <div class="title-mobile  label text-btn-uppercase">
+                                        <p style="font-weight:600" >Contact</p>
+                                        <i class="icon-arrow-51"></i>
+                                    </div>
+                                   <div class="contact-footer">
+                                    <div class="address contact-top contact-footer-content">
+                                        <p style="font-weight:600">
+                                   
+                                        Our address
+                                        </p>
+                                        <a  href="#">      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
+  <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
+  <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+</svg>     101 E 129th St, East Chicago, IN 46312, US</a>
+                                    </div>
+                                    <div class="contact-bottom">
+                                        <div class="contact-footer-content">
+                                            <p style="font-weight:600" >
+                                                Support 24/7
+                                            </p>
+                                            <a href="#">
+                                                
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+  <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5"/>
+</svg>    
+                                            1-555-678-8888</a>
+                                        </div>
+                                        <div class="contact-footer-content">
+                                            <p style="font-weight:600">
+                                               Email Address
+                                            </p>
+                                            <a href="#"> 
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z"/>
+</svg>    
+                                            example@gmail.com</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                                <!-- <div class="footer-subscribe">
                                     <div class="label text-btn-uppercase">
                                         Subscribe for all the top news!
                                     </div>
@@ -133,7 +171,7 @@
                                             </a>
                                         </li>
                                     </ul>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -142,32 +180,18 @@
             <div class="footer-bottom">
                 <div class="tf-container">
                     <div class="row">
-                        <div class="col-12">
-                            <div class="footer-bottom-inner">
-                                <div class="left">
-                                    <div class="text caption-1">
-                                        ©2025 FinWice. All Rights Reserved.
-                                    </div>
-                                </div>
-                                <div class="right">
-                                    <ul>
-                                        <li>
-                                            <a href="#" class="caption-1">Terms Of Services</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="caption-1">Privacy Policy</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="caption-1">Cookie Policy</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-12">
+  <div class="footer-bottom-inner" style="display: flex; justify-content: center; align-items: center; padding: 20px 0;">
+    <div class="text-center caption-1" style="font-size: 14px; color: #777;">
+      ©2025 FinWice. All Rights Reserved.
+    </div>
+  </div>
+</div>
+
                     </div>
                 </div>
             </div>
-        </footer><!-- /.footer -->
+</footer><!-- /.footer -->
 
         <!-- Mobile-nav-wrap -->
         <div class="offcanvas offcanvas-start mobile-nav-wrap" id="canvasMobile">
@@ -238,15 +262,15 @@
                             <div id="dropdown-menu-4" class="collapse" data-bs-parent="#menu-mobile">
                                 <ul class="sub-menu-mobile">
                                     <li class="menu-item"><a href="about-us.php">About Us</a></li>
-                                    <li class="menu-item"><a href="our-teams.php">Our Teams</a></li>
-                                    <li class="menu-item"><a href="industries.php">Industries</a></li>
-                                    <li class="menu-item"><a href="pricing.php">Pricing</a></li>
-                                    <li class="menu-item"><a href="testimonials.php">Testimonials</a></li>
-                                    <li class="menu-item"><a href="gallery.php">Gallery</a></li>
+                                    <li class="menu-item"><a href="our-teams.php">Our Teams Industries & Industries </a></li>
+                                    <!-- <li class="menu-item"><a href="industries.php">Industries</a></li> -->
+                                    <!-- <li class="menu-item"><a href="pricing.php">Pricing</a></li> -->
+                                    <!-- <li class="menu-item"><a href="testimonials.php">Testimonials</a></li> -->
+                                    <!-- <li class="menu-item"><a href="gallery.php">Gallery</a></li> -->
                                     <li class="menu-item"><a href="faq.php">Faq</a></li>
-                                    <li class="menu-item"><a href="career.php">Career</a></li>
-                                    <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li>
-                                    <li class="menu-item"><a href="404.php">404 Error</a></li>
+                                    <!-- <li class="menu-item"><a href="career.php">Career</a></li> -->
+                                    <!-- <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li> -->
+                                    <!-- <li class="menu-item"><a href="404.php">404 Error</a></li> -->
                                 </ul>
                             </div>
                         </li>
