@@ -13,7 +13,7 @@
     src="image/logo/logo.png" 
     alt="Logo" 
     class="img-fluid" 
-    style="width: 130px; filter: brightness(0) invert(1);"
+    style="width: 130px;"
   >
 </a>
 
@@ -21,7 +21,7 @@
                                 <nav class="main-menu">
                                     <ul class="menu-primary-menu">
                                         <li class="menu-item  current-menu-item">
-                                            <a href="#"  class="item-link">Home </a>
+                                            <a href="/"  class="item-link">Home </a>
                                             
                                         </li>
                                         <li class="menu-item position-relative">
@@ -53,11 +53,11 @@
                                 </nav>
                             </div>
                             <div class="header-right">
-                                <div class="nav-btn">
+                                <!-- <div class="nav-btn">
                                     <a href="#" class="tf-btn bg-white style-1">
                                         <span>Schedule A Consultation</span>
                                     </a>
-                                </div>
+                                </div> -->
                                 <div class="nav-icon">
 
                                    

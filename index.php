@@ -154,15 +154,15 @@
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="heading-section about-content-left">
-                                <div class="text-anime-wave">
-                                    <a href="#" class="tag label text-btn-uppercase">ABOUT FUNDRAISEING</a>
+                                <div class="text-anie-wave">
+                                    <a href="#" class="tag label text-btn-uppercase">WE ARE IMPACT NEST</a>
                                 </div>
-                                <ul class="text-color-change mb-40">
- <li> <h3>We are FinWice- We Are Impact Nest</h3> </li> 
+                                <ul class="text-coor-change mb-40">
+
 <li> <h3>At Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
 tailored strategies and solutions for your financial success and security.</h3> 
 </li>
-<!-- <li> <h3>  Y</h3></li> -->
+
 
 </ul>
                                 <a href="#" class="tf-btn style-1 bg-on-suface-container">
@@ -221,61 +221,75 @@ tailored strategies and solutions for your financial success and security.</h3>
                 </div>
             </section><!-- /.section-about -->
 
-            <!-- Section-benefit -->
-            <section class="section-benefit h-1 tf-spacing-3">
+        <section class="section-benefit h-1 tf-spacing-3">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
                             <div class="box-icon-list">
                                 <div class="box-icon">
-                                    <div class="icon wow fadeInUp">
-                                        <i class="icon-heart"></i>
+                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUP9Iy4BAVJwxqThpp_-oRd9_Lw33iEnKYA&s" style="width:80px" alt="">
                                     </div>
                                     <div class="box-content">
-                                        <h5 class="wow fadeInUp">
-                                            <a href="#" class="title-box">Easy to Start</a>
+                                        <h5 class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                            <a href="#" class="title-box">
+                                            Investment
+                                            </a>
                                         </h5>
-                                        <div class="sub-title wow fadeInUp">
-                                            Launch your campaign in minutes and start raising funds instantly.
+                                        <div class="sub-title wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                                        Enabling growth through strategic investment and smart fundraising solutions.
                                         </div>
                                     </div>
                                 </div>
                                 <div class="box-icon">
-                                    <div class="icon wow fadeInUp" data-wow-delay=".1s">
-                                        <i class="icon-users"></i>
+                                    <div class="icon wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                        <!-- <i class="icon-investment"></i> -->
+                                        <img src="https://images.squarespace-cdn.com/content/v1/6722e29590c2195f408d1bcd/d9d88e20-28a5-4618-aac1-4e9e511dd729/custom-strategies-icon.jpg" style="width:80px; background: transparent; mix-blend-mode: multiply;" alt="">
+
                                     </div>
                                     <div class="box-content">
-                                        <h5 class="wow fadeInUp" data-wow-delay=".1s">
-                                            <a href="#" class="title-box">Global Community</a>
+                                        <h5 class="wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                            <a href="#" class="title-box">
+                                            Tailored Strategies
+                                            </a>
                                         </h5>
-                                        <div class="sub-title wow fadeInUp" data-wow-delay=".1s">
-                                            Connect with supporters from around the world and grow your impact.
+                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                        Customized business plans designed to meet your unique goals and business
+                                        situation.
                                         </div>
                                     </div>
                                 </div>
                                 <div class="box-icon">
-                                    <div class="icon wow fadeInUp" data-wow-delay=".2s">
-                                        <i class="icon-shield"></i>
+                                    <div class="icon wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <img src="https://www.svgrepo.com/show/69316/investment-model.svg" style="width:70px; background: transparent; mix-blend-mode: multiply;" alt="">
+
                                     </div>
                                     <div class="box-content">
-                                        <h5 class="wow fadeInUp" data-wow-delay=".2s">
-                                            <a href="#" class="title-box">Secure Giving</a>
+                                        <h5 class="wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                            <a href="#" class="title-box">
+                                            Financial Modelling
+                                            </a>
                                         </h5>
-                                        <div class="sub-title wow fadeInUp" data-wow-delay=".2s">
-                                            Your donations are safe and protected with our trusted platform.
+                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                        We build robust financial models that drive clarity, confidence, and investor
+                                        trust.
                                         </div>
                                     </div>
                                 </div>
                                 <div class="box-icon">
-                                    <div class="icon wow fadeInUp" data-wow-delay=".3s">
-                                        <i class="icon-star"></i>
+                                    <div class="icon wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                    <img src="https://cdn.iconscout.---------------------------------------------------------------------------------------------------------------------------------------------------------com/icon/premium/png-256-thumb/deck-4180139-3463243.png?f=webp&w=256" style="width:70px; background: transparent; mix-blend-mode: multiply;" alt="">
+
                                     </div>
                                     <div class="box-content">
-                                        <h5 class="wow fadeInUp" data-wow-delay=".3s">
-                                            <a href="#" class="title-box">Real Results</a>
+                                        <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                            <a href="#" class="title-box">
+                                            Deck Design
+                                            </a>
                                         </h5>
-                                        <div class="sub-title wow fadeInUp" data-wow-delay=".3s">
-                                            See the stories and successes made possible by your generosity.
+                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                        We craft compelling pitch decks that tell your story, showcase your value, and attract
+                                        investors.
                                         </div>
                                     </div>
                                 </div>
@@ -283,7 +297,7 @@ tailored strategies and solutions for your financial success and security.</h3>
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-benefit -->
+            </section>
 
             <!-- Section-services -->
             <section class="section-services h-1 tf-spacing-31 bg-surface">
@@ -554,55 +568,15 @@ investors.
             </section><!-- /.section-services -->
 
             <!-- Section-process -->
-
-             <section class="py-5 bg-light text-center">
-  <div class="container">
-    <h2 class="mb-3 fw-bold">WE ARE IMPACT NEST</h2>
-    <h5 class="mb-4">
-      We are FinWice — We Are Impact Nest with 8+ Years of Business Planning Expertise
-    </h5>
-
-    <div class="row g-4">
-      <!-- Card 1 -->
-      <div class="col-sm-12 col-md-6 col-lg-3">
-        <div class="p-4 bg-white border rounded h-100 shadow-sm">
-          At Impact Nest, we offer expert business planning to help you reach your goals. Our team provides
-          tailored strategies and solutions for your financial success and security.
-        </div>
-      </div>
-
-      <!-- Card 2 -->
-      <div class="col-sm-12 col-md-6 col-lg-3">
-        <div class="p-4 bg-white border rounded h-100 shadow-sm">
-          <strong>Expertise:</strong> At Impact Nest, expertise is at the core of everything we do. We bring deep domain
-          knowledge, analytical precision, and years of industry experience to every project. Our team is
-          committed to continuous learning, sharp execution, and delivering insights that lead to strategic
-          advantage and measurable success for our clients.
-        </div>
-      </div>
-
-      <!-- Card 3 -->
-      <div class="col-sm-12 col-md-6 col-lg-3">
-        <div class="p-4 bg-white border rounded h-100 shadow-sm">
-          <strong>Innovation:</strong> At Impact Nest, our mission is to drive innovation in business consulting by delivering
-          forward-thinking solutions in fundraising, strategy, financial modelling, and pitch design. We strive to
-          empower startups and growth-stage companies with creative, data-driven approaches that break
-          convention and unlock new possibilities.
-        </div>
-      </div>
-
-      <!-- Card 4 -->
-      <div class="col-sm-12 col-md-6 col-lg-3">
-        <div class="p-4 bg-white border rounded h-100 shadow-sm">
-          <strong>Commitment:</strong> At Impact Nest, our vision is to redefine business growth through unwavering
-          commitment to our clients' success. We aim to be the trusted partner who stands by every
-          entrepreneur and enterprise — committed to delivering excellence in strategy, fundraising, financial
-          modelling, and impactful storytelling that drives real results.
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+            <section class="section-benefit h-1 tf-spacing-3">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                           
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
 
@@ -622,7 +596,7 @@ investors.
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="row rg-30">
+                    <div class="row rg-30">
                         <div class="col-lg-3 col-sm-6">
                             <div class="process-item step-hover">
                                 <div class="process-top wow fadeInUp">
@@ -740,7 +714,7 @@ investors.
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </section><!-- /.section-process -->
 

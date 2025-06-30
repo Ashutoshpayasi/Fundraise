@@ -267,7 +267,7 @@
                 </div>
             </section>
 
-            <section class="section-list-banner tf-spacing-3">
+            <!-- <section class="section-list-banner tf-spacing-3">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
@@ -365,7 +365,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
         </div><!-- /.main-content -->
         <?php include 'includes/footer.php'; ?>

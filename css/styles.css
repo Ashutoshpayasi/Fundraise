@@ -2042,7 +2042,7 @@ a:hover, a:focus {
 
 /*------------ footer ---------------- */
 .footer {
-  background-color: var(--on-suface-container);
+  background-color: rgb(218, 218, 218);
 }
 .footer .footer-top {
   display: -webkit-box;
@@ -7361,20 +7361,20 @@ a.mapboxgl-ctrl-logo {
   font-size: 32px;
 }
 .process-item.bg-1 .process-top span {
-  color: var(--white);
+  /* color: var(--white); */
 }
 .process-item.bg-1 .process-top::before {
   background-color: var(--white);
 }
 .process-item.bg-1 .name-process {
-  color: var(--white);
+  /* color: var(--white); */
   margin-bottom: 8px;
 }
 .process-item.bg-1 .name-process:hover {
-  color: var(--primary);
+  /* color: var(--primary);  */
 }
 .process-item.bg-1 .desc {
-  color: var(--surface);
+  /* color: var(--surface); */
 }
 .process-item.bg-1.bg-1-style-2 {
   padding: 20px;
@@ -7700,6 +7700,7 @@ a.mapboxgl-ctrl-logo {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  /* color: #317C6F; */
 }
 .case-studies-item .case-studies-content h5 {
   margin-bottom: 7px;
@@ -9907,6 +9908,7 @@ a.mapboxgl-ctrl-logo {
   opacity: 0.5;
 }
 .page-title.bg-img-4::before {
+  /* height: 300px; */
   background-image: url(../image/page-title/page-title-5.jpg);
   opacity: 0.3;
 }

@@ -12,7 +12,7 @@
     <meta charset="utf-8" />
     <!-- [if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif] -->
     <title>
-        FinWice - Business & Finance Consulting - HTML Template
+        Impact Nest - Business & Finance Consulting - HTML Template
     </title>
     <meta name="description" content="FinWice - Business & Finance Consulting HTML Template is a modern and professional solution designed for financial advisors, business consultants, investment firms, and corporate agencies. Featuring a clean and responsive design, FinWice offers powerful customization options, smooth animations, and user-friendly layouts to enhance your online presence. Whether you provide financial planning, investment strategy, or business consulting services, FinWice ensures a seamless experience for your clients">
     <meta name="keywords" content="financial consulting, business, investment, accounting, banking, company, enterprise, FinWice, HTML template, web design.">
@@ -87,78 +87,319 @@
             </div>
         </div><!-- /.page-title -->
             <section class="py-5 text-center bg-light" >
-            <div class="" style="padding:0px 30px 0px 30px">
-                <div class="mx-auto" style="">
-                <h3 class="mb-4 fw-bold wow fadeInUp"  style="text-align:center;font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
-                Empowering Visionaries. Accelerating Growth.
-                </h3>
-                
-                                <p >
-                                At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
-                through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
-                design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
-                confidence and purpose.
-                <br>
-                With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
-                business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
-                to ensure your business is investor-ready and growth-aligned.
-                <br>
-                Whether you're raising your first round or expanding into new markets, we’re here to guide you through
-                every step of the journey — with insight, precision, and commitment.
-                                </p>
-                </div>
-            </div>
-            </section>
-
-
-            <section style="padding: 40px; background-color: #f9f9f9;">
-    <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align:center;font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
-    Expertise.Innovation.Commitment.
+            <div style="padding: 0 30px;">
+  <div style="border: 0px solid black; max-width: 80%; margin: 0 auto; padding:  20px 20px 0px 20px; box-sizing: border-box;">
+    <h3 class="mb-4 fw-bold wow fadeInUp" style="text-align: center; font-size: 35px; color: #2c3e50; margin-bottom: 20px;">
+      Empowering Visionaries. Accelerating Growth.
     </h3>
+    <p style="text-align: left; max-width: 90%; margin: 0 auto; color: #444; line-height: 1.6;">
+      At Impact Nest, we partner with startups and growth-stage companies to unlock their true potential
+      through strategic fundraising, tailored business strategy, robust financial modelling, and impactful pitch
+      design. Our mission is to provide founders with the clarity, tools, and connections needed to scale with
+      confidence and purpose.<br><br>
+      With deep industry expertise and a founder-first approach, we don't just consult — we co-create. Every
+      business is unique, and so is our approach. We combine sharp analytical thinking with creative execution
+      to ensure your business is investor-ready and growth-aligned.<br><br>
+      Whether you're raising your first round or expanding into new markets, we’re here to guide you through
+      every step of the journey — with insight, precision, and commitment.
+    </p>
+  </div>
+</div>
 
-    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="margin-top: 0; color: #2980b9;">Vision</h4>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-            At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
-            delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
-            We aim to redefine how founders scale their ventures by combining deep expertise, innovation,
-            and unwavering commitment to long-term success.
-        </p>
+            </section>
+           
+           
+                <div>
+                <h3 class="mb-4 fw-bold wow fadeInUp   " style="text-align:center;font-size: 35px; color: #2c3e50; margin: 40px;">
+                Expertise.Innovation.Commitment.
+                </h3>
+                <div class="container py-4">
+  <div class="row justify-content-center g-4">
+    
+    <!-- Vision -->
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+        <div class="testimonial-top">
+          <div class="counter-item">
+            <div class="counter text-center">
+              <h5 class="text fw-bold">Vision</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item-content mt-2">
+          <div class="text">
+            At Impact Nest, our vision is to be the go-to partner for startups and growing businesses, delivering transformative impact through strategic guidance, smart fundraising, and financial clarity. We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and unwavering commitment to long-term success.
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="margin-top: 0; color: #2980b9;">Mission</h4>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-            Our mission is to empower founders with the right tools, insights, and capital to grow
-            their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
-            modelling, and pitch design—bridging the gap between business vision and investor expectations.
-            Through every stage, we remain focused on delivering real value and measurable outcomes.
-        </p>
+    <!-- Mission -->
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+        <div class="testimonial-top">
+          <div class="counter-item">
+            <div class="counter text-center">
+              <h5 class="text fw-bold">Mission</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item-content mt-2">
+          <div class="text">
+            Our mission is to empower founders with the right tools, insights, and capital to grow their businesses with confidence. We offer customized solutions in fundraising, strategy, financial modelling, and pitch design—bridging the gap between business vision and investor expectations.
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="margin-top: 0; color: #2980b9;">Values</h4>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-            At the heart of Impact Nest are our core values: Commitment to every client’s journey,
-            Innovation in every solution we offer, and Expertise that drives informed decisions.
-            We believe in integrity, collaboration, and a results-driven mindset. These values shape our work,
-            our relationships, and the success we help create for each business we support.
-        </p>
+    <!-- Core Values -->
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+        <div class="testimonial-top">
+          <div class="counter-item">
+            <div class="counter text-center">
+              <h5 class="text fw-bold">Core Values</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item-content mt-2">
+          <div class="text">
+            At the heart of Impact Nest are our core values: Commitment to every client’s journey, Innovation in every solution we offer, and Expertise that drives informed decisions. We believe in integrity, collaboration, and a results-driven mindset.
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div style="padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-        <h4 style="margin-top: 0; color: #2980b9;">What Sets Impact Nest Apart?</h4>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-            Impact Nest is your one-stop destination for business growth. We offer a seamless
-            blend of strategy, fundraising, financial modelling, and pitch design — all under one
-            roof. What sets us apart is our ability to deliver end-to-end solutions tailored to your
-            stage, sector, and vision. With a founder-first approach and a commitment to
-            measurable outcomes, we simplify your growth journey and help you scale with
-            confidence.
-        </p>
+    <!-- What We Offer -->
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+      <div class="testimonial-item p-4 bg-white rounded shadow h-100">
+        <div class="testimonial-top">
+          <div class="counter-item">
+            <div class="counter text-center">
+              <h5 class="text fw-bold">What We Offer</h5>
+            </div>
+          </div>
+        </div>
+        <div class="item-content mt-2">
+          <div class="text">
+            Impact Nest is your one-stop destination for business growth. We offer a seamless blend of strategy, fundraising, financial modelling, and pitch design — all under one roof. What sets us apart is our ability to deliver tailored, end-to-end solutions.
+          </div>
+        </div>
+      </div>
     </div>
-</section>
 
+  </div>
+</div>
+
+                </div>
+            <!-- <section style="padding: 40px; background-color: #f9f9f9;">
+               
+
+                <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+                    <h4 style="margin-top: 0; color: #2980b9;">Vision</h4>
+                    <p style="font-size: 16px; line-height: 1.6; color: #333;">
+                        At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
+                        delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
+                        We aim to redefine how founders scale their ventures by combining deep expertise, innovation,
+                        and unwavering commitment to long-term success.
+                    </p>
+                </div>
+
+                <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+                    <h4 style="margin-top: 0; color: #2980b9;">Mission</h4>
+                    <p style="font-size: 16px; line-height: 1.6; color: #333;">
+                        Our mission is to empower founders with the right tools, insights, and capital to grow
+                        their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
+                        modelling, and pitch design—bridging the gap between business vision and investor expectations.
+                        Through every stage, we remain focused on delivering real value and measurable outcomes.
+                    </p>
+                </div>
+
+                <div style="margin-bottom: 25px; padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+                    <h4 style="margin-top: 0; color: #2980b9;">Values</h4>
+                    <p style="font-size: 16px; line-height: 1.6; color: #333;">
+                        At the heart of Impact Nest are our core values: Commitment to every client’s journey,
+                        Innovation in every solution we offer, and Expertise that drives informed decisions.
+                        We believe in integrity, collaboration, and a results-driven mindset. These values shape our work,
+                        our relationships, and the success we help create for each business we support.
+                    </p>
+                </div>
+
+                <div style="padding: 20px; background: #fff; border-left: 5px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+                    <h4 style="margin-top: 0; color: #2980b9;">What Sets Impact Nest Apart?</h4>
+                    <p style="font-size: 16px; line-height: 1.6; color: #333;">
+                        Impact Nest is your one-stop destination for business growth. We offer a seamless
+                        blend of strategy, fundraising, financial modelling, and pitch design — all under one
+                        roof. What sets us apart is our ability to deliver end-to-end solutions tailored to your
+                        stage, sector, and vision. With a founder-first approach and a commitment to
+                        measurable outcomes, we simplify your growth journey and help you scale with
+                        confidence.
+                    </p>
+                </div>
+    </section> -->
+    <section class="section-about h-2" >
+                <div class="about-inner" style="margin-top:100px">
+                    <div class="section-about-left">
+                        <div class="about-top">
+                            <div class="tf-container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="about-content">
+                                            <div class="heading-section">
+                                                <!-- <div class="text-anime-wave">
+                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE FinWice</a>
+                                                </div> -->
+                                                <h3 class="title-section mb-28 text-anime-wave">
+                                                    Empowering Your Business
+                                                    <br>Success
+                                                </h3>
+                                                <div class="sub-title mb-32 text-anime-wave">
+                                                    At Impact Nest, we empower businesses with tailored strategies, innovative solutions, and
+                                                    <br>expert consulting. Our industry professionals drive growth and guide you through
+                                                    <br>challenges to achieve success.
+                                                </div>
+                                                <h4 class="title-section mb-28 text-anime-wave">
+                                                 What Sets Impact Nest Apart?
+                                                </h4>
+                                                <div class="sub-title mb-32 text-anime-wave">
+                                                   Impact Nest is your one-stop destination for business growth. We offer </br>  a seamless
+blend of strategy, fundraising, financial modelling,  and pitch </br> design  — all under one
+roof. What sets us apart  is our ability  to deliver </br>  end-to-end solutions tailored to your
+stage, sector,  and vision. </br> With a founder-first approach  and a commitment to
+measurable  outcomes, </br> we simplify your  growth journey and  help you scale with
+confidence.
+                                                </div>
+                                                <div class="text-anime-wave">
+                                                    <a href="about-us.php" class="tf-btn style-1 bg-on-suface-container">
+                                                        <span>
+                                                            About Us
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                             
+                                            </div>
+                                            <div class="wg-counter style-column g-40">
+                                                <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                            <h4 class="number odometer color-primary" data-to="8" data-inviewport="yes">
+                                                                0
+                                                            </h4>
+                                                            <h4 class="plus color-primary">
+                                                                +
+                                                            </h4>
+                                                        </div>
+                                                        <p class="text text-btn-uppercase label">
+                                                            Years experiences
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                            <h4 class="number odometer color-primary" data-to="3600" data-inviewport="yes">
+                                                                0
+                                                            </h4>
+                                                            <h4 class="plus color-primary">
+                                                                +
+                                                            </h4>
+                                                        </div>
+                                                        <p class="text text-btn-uppercase label">
+                                                            Happy customers
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- <div class="counter-item">
+                                                    <div class="counter">
+                                                        <div class="number-counter">
+                                                            <h4 class="number odometer color-primary" data-to="900" data-inviewport="yes">
+                                                                0
+                                                            </h4>
+                                                            <h4 class="plus color-primary">
+                                                                +
+                                                            </h4>
+                                                        </div>
+                                                        <p class="text text-btn-uppercase label">
+                                                            Project completed
+                                                        </p>
+                                                    </div>
+                                                </div> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="about-bottom">
+                            <div class="tf-container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="flat-animate-tab">
+                                            <div class="wg-tab style-small">
+                                                <ul class="tab-product min-w-366" role="tablist">
+                                                    <li class="nav-tab-item" role="presentation">
+                                                        <h6>
+                                                            <a href="#expertise" data-bs-toggle="tab" role="tab" class="active">Expertise</a>
+                                                        </h6>
+                                                    </li>
+                                                    <li class="nav-tab-item" role="presentation">
+                                                        <h6>
+                                                            <a href="#innovation" data-bs-toggle="tab" role="tab">Innovation</a>
+                                                        </h6>
+                                                    </li>
+                                                    <li class="nav-tab-item" role="presentation">
+                                                        <h6>
+                                                            <a href="#commitment" data-bs-toggle="tab" role="tab">Commitment</a>
+                                                        </h6>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="tab-content">
+                                                <div class="tab-pane active show" id="expertise" role="tabpanel">
+                                                    <p class="text">
+At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
+delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
+We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and
+unwavering commitment to long-term success.                                                    </p>
+                                                </div>
+                                                <div class="tab-pane" id="innovation" role="tabpanel">
+                                                    <p class="text">
+Our mission is to empower founders with the right tools, insights, and capital to grow
+their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
+modelling, and pitch design—bridging the gap between business vision and investor expectations.
+Through every stage, we remain focused on delivering real value and measurable outcomes.                                                    </p>
+                                                </div>
+                                                <div class="tab-pane" id="commitment" role="tabpanel">
+                                                    <p class="text">
+At the heart of Impact Nest are our core values: Commitment to every client’s journey,
+Innovation in every solution we offer, and Expertise that drives informed decisions. We believe in
+integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
+and the success we help create for each business we support.                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section-about-right tf-animate-4">
+                        <div class="wg-video">
+                            <a href="https://www.youtube.com/watch?v=XHOmBV4js_E" class="popup-youtube">
+                                <div class="icon">
+                                    <i class="icon-Play"></i>
+                                </div>
+                                <div class="wave">
+                                </div>
+                                <div class="wave">
+                                </div>
+                                <div class="wave">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- /.section-about -->
         <!-- Main-content -->
         <div class="main-content">
 
@@ -245,169 +486,7 @@
             </section><!-- /.section-benefit -->
 
             <!-- Section-about -->
-            <section class="section-about h-2">
-                <div class="about-inner">
-                    <div class="section-about-left">
-                        <div class="about-top">
-                            <div class="tf-container">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="about-content">
-                                            <div class="heading-section">
-                                                <div class="text-anime-wave">
-                                                    <a href="#" class="tag label text-btn-uppercase">WE ARE FinWice</a>
-                                                </div>
-                                                <h3 class="title-section mb-28 text-anime-wave">
-                                                    Empowering Your Business
-                                                    <br>Success
-                                                </h3>
-                                                <div class="sub-title mb-32 text-anime-wave">
-                                                    At FinWice, we empower businesses with tailored strategies, innovative solutions, and
-                                                    <br>expert consulting. Our industry professionals drive growth and guide you through
-                                                    <br>challenges to achieve success.
-                                                </div>
-                                                <h4 class="title-section mb-28 text-anime-wave">
-                                                 What Sets Impact Nest Apart?
-                                                </h4>
-                                                <div class="sub-title mb-32 text-anime-wave">
-                                                   Impact Nest is your one-stop destination for business growth. We offer </br>  a seamless
-blend of strategy, fundraising, financial modelling,  and pitch </br> design  — all under one
-roof. What sets us apart  is our ability  to deliver </br>  end-to-end solutions tailored to your
-stage, sector,  and vision. </br> With a founder-first approach  and a commitment to
-measurable  outcomes, </br> we simplify your  growth journey and  help you scale with
-confidence.
-                                                </div>
-                                                <div class="text-anime-wave">
-                                                    <a href="about-us.php" class="tf-btn style-1 bg-on-suface-container">
-                                                        <span>
-                                                            About Us
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                             
-                                            </div>
-                                            <div class="wg-counter style-column g-40">
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="15" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                +
-                                                            </h4>
-                                                        </div>
-                                                        <p class="text text-btn-uppercase label">
-                                                            Years experiences
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="3600" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                +
-                                                            </h4>
-                                                        </div>
-                                                        <p class="text text-btn-uppercase label">
-                                                            Happy customers
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="counter-item">
-                                                    <div class="counter">
-                                                        <div class="number-counter">
-                                                            <h4 class="number odometer color-primary" data-to="900" data-inviewport="yes">
-                                                                0
-                                                            </h4>
-                                                            <h4 class="plus color-primary">
-                                                                +
-                                                            </h4>
-                                                        </div>
-                                                        <p class="text text-btn-uppercase label">
-                                                            Project completed
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="about-bottom">
-                            <div class="tf-container">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="flat-animate-tab">
-                                            <div class="wg-tab style-small">
-                                                <ul class="tab-product min-w-366" role="tablist">
-                                                    <li class="nav-tab-item" role="presentation">
-                                                        <h6>
-                                                            <a href="#expertise" data-bs-toggle="tab" role="tab" class="active">Expertise</a>
-                                                        </h6>
-                                                    </li>
-                                                    <li class="nav-tab-item" role="presentation">
-                                                        <h6>
-                                                            <a href="#innovation" data-bs-toggle="tab" role="tab">Innovation</a>
-                                                        </h6>
-                                                    </li>
-                                                    <li class="nav-tab-item" role="presentation">
-                                                        <h6>
-                                                            <a href="#commitment" data-bs-toggle="tab" role="tab">Commitment</a>
-                                                        </h6>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="tab-content">
-                                                <div class="tab-pane active show" id="expertise" role="tabpanel">
-                                                    <p class="text">
-At Impact Nest, our vision is to be the go-to partner for startups and growing businesses,
-delivering transformative impact through strategic guidance, smart fundraising, and financial clarity.
-We aim to redefine how founders scale their ventures by combining deep expertise, innovation, and
-unwavering commitment to long-term success.                                                    </p>
-                                                </div>
-                                                <div class="tab-pane" id="innovation" role="tabpanel">
-                                                    <p class="text">
-Our mission is to empower founders with the right tools, insights, and capital to grow
-their businesses with confidence. We offer customized solutions in fundraising, strategy, financial
-modelling, and pitch design—bridging the gap between business vision and investor expectations.
-Through every stage, we remain focused on delivering real value and measurable outcomes.                                                    </p>
-                                                </div>
-                                                <div class="tab-pane" id="commitment" role="tabpanel">
-                                                    <p class="text">
-At the heart of Impact Nest are our core values: Commitment to every client’s journey,
-Innovation in every solution we offer, and Expertise that drives informed decisions. We believe in
-integrity, collaboration, and a results-driven mindset. These values shape our work, our relationships,
-and the success we help create for each business we support.                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-about-right tf-animate-4">
-                        <div class="wg-video">
-                            <a href="https://www.youtube.com/watch?v=XHOmBV4js_E" class="popup-youtube">
-                                <div class="icon">
-                                    <i class="icon-Play"></i>
-                                </div>
-                                <div class="wave">
-                                </div>
-                                <div class="wave">
-                                </div>
-                                <div class="wave">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section><!-- /.section-about -->
+           
 
             <!-- Section-history -->
             <section class="section-history section-about bg-on-suface-container tf-spacing-2 hover-active-step">
@@ -624,32 +703,7 @@ and the success we help create for each business we support.                    
 
             <!-- Section-testimonials -->
             <section class="section-testimonials h-3 tf-spacing-2">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="heading-section style-2">
-                                <div class="left">
-                                    <div class="text-anime-wave">
-                                        <a href="#" class="tag label text-btn-uppercase">Testimonials</a>
-                                    </div>
-                                    <h3 class="title-section mb-12 text-anime-wave">
-                                        What is Clients say?
-                                    </h3>
-                                    <div class="sub-title body-2 text-anime-wave">
-                                        See the impact of our solutions through clear, measurable results.
-                                    </div>
-                                </div>
-                                <div class="text-anime-wave-2">
-                                    <a href="testimonials.php" class="tf-btn style-1 bg-on-suface-container">
-                                        <span>
-                                            Read All Testimonials
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
