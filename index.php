@@ -291,83 +291,123 @@ tailored strategies and solutions for your financial success and security.</h3>
                 </div>
             </section><!-- /.section-about -->
 
-        <section class="section-benefit h-1 tf-spacing-3">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="box-icon-list">
-                                <div class="box-icon">
-                                    <div class="icon wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUP9Iy4BAVJwxqThpp_-oRd9_Lw33iEnKYA&s" style="width:80px" alt="">
-                                    </div>
-                                    <div class="box-content">
-                                        <h5 class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                            <a href="#" class="title-box">
-                                            Investment
-                                            </a>
-                                        </h5>
-                                        <div class="sub-title wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-                                        Enabling growth through strategic investment and smart fundraising solutions.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="box-icon">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        <!-- <i class="icon-investment"></i> -->
-                                        <img src="https://images.squarespace-cdn.com/content/v1/6722e29590c2195f408d1bcd/d9d88e20-28a5-4618-aac1-4e9e511dd729/custom-strategies-icon.jpg" style="width:80px; background: transparent; mix-blend-mode: multiply;" alt="">
+            <style>
+  .section-benefit {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
 
-                                    </div>
-                                    <div class="box-content">
-                                        <h5 class="wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                            <a href="#" class="title-box">
-                                            Tailored Strategies
-                                            </a>
-                                        </h5>
-                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                        Customized business plans designed to meet your unique goals and business
-                                        situation.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="box-icon">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                    <img src="https://www.svgrepo.com/show/69316/investment-model.svg" style="width:70px; background: transparent; mix-blend-mode: multiply;" alt="">
+  .box-icon-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    max-width: 1550px;
+    margin: 0 auto;
+  }
 
-                                    </div>
-                                    <div class="box-content">
-                                        <h5 class="wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                            <a href="#" class="title-box">
-                                            Financial Modelling
-                                            </a>
-                                        </h5>
-                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                        We build robust financial models that drive clarity, confidence, and investor
-                                        trust.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="box-icon">
-                                    <div class="icon wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                    <img src="https://cdn.iconscout.---------------------------------------------------------------------------------------------------------------------------------------------------------com/icon/premium/png-256-thumb/deck-4180139-3463243.png?f=webp&w=256" style="width:70px; background: transparent; mix-blend-mode: multiply;" alt="">
+  .box-icon {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    padding: 30px 20px;
+    width: 280px;             /* fixed width */
+    min-height: 300px;        /* equal height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
 
-                                    </div>
-                                    <div class="box-content">
-                                        <h5 class="wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                            <a href="#" class="title-box">
-                                            Deck Design
-                                            </a>
-                                        </h5>
-                                        <div class="sub-title wow fadeInUp animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                        We craft compelling pitch decks that tell your story, showcase your value, and attract
-                                        investors.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+  .box-icon:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+  }
+
+  .box-icon .icon img {
+    width: 70px;
+    height: 70px;             /* fixed height */
+    margin-bottom: 20px;
+    mix-blend-mode: multiply;
+    transition: transform 0.3s ease;
+  }
+
+  .box-icon:hover .icon img {
+    transform: scale(1.1);
+  }
+
+  .title-box {
+    font-size: 18px;
+    font-weight: 600;
+    color: #2c3e50;
+    text-decoration: none;
+    margin-bottom: 12px;
+    display: inline-block;
+  }
+
+  .title-box:hover {
+    color: #007bff;
+  }
+
+  .sub-title {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.6;
+    flex-grow: 1;            /* grow to fill space if needed */
+  }
+</style>
+
+<section class="section-benefit">
+  <div class="box-icon-list">
+    <!-- Investment -->
+    <div class="box-icon">
+      <div class="icon">
+        <img src="/image/icon/investment_2300422.png" alt="Investment">
+      </div>
+      <a href="#" class="title-box">Investment</a>
+      <div class="sub-title">
+        Empowering businesses to grow through strategic investments, innovative fundraising solutions, and sustainable financial planning.
+      </div>
+    </div>
+
+    <!-- Tailored Strategies -->
+    <div class="box-icon">
+      <div class="icon">
+        <img src="/image/icon/strategy-development_4129547.png">
+      </div>
+      <a href="#" class="title-box">Tailored Strategies</a>
+      <div class="sub-title">
+        Customized business plans designed to meet your unique goals and business situation.
+      </div>
+    </div>
+
+    <!-- Financial Modelling -->
+    <div class="box-icon">
+      <div class="icon">
+        <img src="/image/icon/financial_4221500.png" alt="Financial Modelling">
+      </div>
+      <a href="#" class="title-box">Financial Modelling</a>
+      <div class="sub-title">
+        We build robust financial models that drive clarity, confidence, and investor trust.
+      </div>
+    </div>
+
+    <!-- Deck Design -->
+    <div class="box-icon">
+      <div class="icon">
+        <img src="/image/icon/desk_6881229.png" alt="Deck Design">
+      </div>
+      <a href="#" class="title-box">Deck Design</a>
+      <div class="sub-title">
+        We craft compelling pitch decks that tell your story, showcase your value, and attract investors.
+      </div>
+    </div>
+
+  </div>
+</section>
+
 
             <!-- Section-services -->
             <section class="section-services h-1 tf-spacing-31 bg-surface">
