@@ -68,9 +68,31 @@
             <div dir="ltr" class="swiper sw-auto style-absolute" data-preview="1" data-space="0" data-loop="true" data-speed="1000" data-delay="2000" data-effect="fade">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="page-title-inner">
-                            <div class="tf-container">
-                                <div class="row">
+                    <div class="page-title-inner" style="
+    background: url('/image/page-title/page-title-5.jpg') center center / cover no-repeat;
+    width: 100%;
+    height: 700px;
+    position: relative;
+">
+    <!-- 🔴 Semi-transparent black overlay -->
+    <div style="
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);  /* 50% transparent black */
+        z-index: 1;
+    "></div>
+
+    <!-- ✅ Content above overlay -->
+    <div class="tf-container" style="
+        position: relative;
+        z-index: 2;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    ">
+        <div class="row">
                                     <div class="col-12">
                                         <div class="page-title-content">
                                             <h1 class="tf-fade-top fade-item-1">
@@ -85,34 +107,37 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+    </div>
+</div>
+
                     </div>
                     <div class="swiper-slide">
-                        <div class="page-title-inner">
-                            <div class="tf-container">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="page-title-content">
-                                            <h1 class="tf-fade-top fade-item-1">
-                                                Build Bold. Pitch Smart. Grow Fast
-                                            </h1>
-                                            <div class="sub-title body-2 tf-fade-top fade-item-2">
-                                              From strategy to funding decks, we help businesses scale with confidence and clarity.
-                                            </div>
-                                            <a href="/services-details-4.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
-                                                <span>Get Started</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="swiper-slide">
-                        <div class="page-title-inner">
-                            <div class="tf-container">
-                                <div class="row">
+    <div class="page-title-inner" style="
+        background: url('/image/page-title/page-title-home--1.jpg') center center / cover no-repeat;
+        width: 100%;
+        height: 700px;
+        position: relative;
+    ">
+        <!-- 🔴 Overlay -->
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        "></div>
+
+        <!-- ✅ Content above the overlay -->
+        <div class="tf-container" style="
+            position: relative;
+            z-index: 2;
+            height: 100%;
+            display: flex;
+            align-items: center;
+        ">
+            <div class="row">
                                     <div class="col-12">
                                         <div class="page-title-content">
                                             <h1 class="tf-fade-top fade-item-1">
@@ -127,9 +152,54 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
+        </div>
+    </div>
+</div>
+<div class="swiper-slide">
+    <div class="page-title-inner" style="
+        background: url('/image/page-title/page-title-home-2.jpg') center center / cover no-repeat;
+        width: 100%;
+        height: 700px;
+        position: relative;
+    ">
+        <!-- 🔴 Dark overlay -->
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        "></div>
+
+        <!-- ✅ Content above overlay -->
+        <div class="tf-container" style="
+            position: relative;
+            z-index: 2;
+            height: 100%;
+            display: flex;
+            align-items: center;
+        ">
+          <div class="row">
+                                    <div class="col-12">
+                                        <div class="page-title-content">
+                                            <h1 class="tf-fade-top fade-item-1">
+                                                Let’s Build Your Growth Story
+                                            </h1>
+                                            <div class="sub-title body-2 tf-fade-top fade-item-2">
+                                                Connect with us for expert fundraising, strategic planning, financial modelling, and pitch deck design
+                                            </div>
+                                            <a href="/contact-us.php" class="tf-btn style-1 bg-white tf-fade-top fade-item-3">
+                                                <span>Contact Us</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+        </div>
+    </div>
+</div>
+
                     
                 </div>
                 <div class="tf-btn-arrow arrow-left sw-auto-next">
@@ -719,7 +789,7 @@ investors.
             </section><!-- /.section-process -->
 
             <!-- Section-project -->
-            <section class="section-project h-1 bg-on-suface-container">
+            <!-- <section class="section-project h-1 bg-on-suface-container">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
@@ -799,7 +869,8 @@ investors.
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-project -->
+            </section> -->
+            <!-- /.section-project -->
 
             <!-- Section-testimonials -->
             <!-- /.section-testimonials -->
@@ -1154,10 +1225,10 @@ both to align vision and execution.</p>
                         </div>
                     </div>
                 </div>
-            </section> -->
+            </section>
             
             <!-- Section-awards -->
-            <section class="section-awards h-1 tf-spacing-3">
+            <!-- <section class="section-awards h-1 tf-spacing-3">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
@@ -1169,7 +1240,7 @@ both to align vision and execution.</p>
                                     Trusted by Leading Organizations
                                 </h3>
                             </div>
-                            <!-- <div class="awards-list">
+                            <div class="awards-list">
                                 <div class="image wow fadeInUp">
                                     <img src="image/section/awards-img-1.png" alt="Partner 1" class="lazyload">
                                 </div>
@@ -1185,14 +1256,15 @@ both to align vision and execution.</p>
                                 <div class="image wow fadeInUp" data-wow-delay=".4s">
                                     <img src="image/section/awards-img-5.png" alt="Partner 5" class="lazyload">
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-awards -->
+            </section> -->
+            <!-- /.section-awards -->
 
             <!-- Section-cta -->
-            <section class="section-cta h-1 tf-spacing-3">
+            <!-- <section class="section-cta h-1 tf-spacing-3">
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
@@ -1229,7 +1301,8 @@ both to align vision and execution.</p>
                         </div>
                     </div>
                 </div>
-            </section><!-- /.section-cta -->
+            </section> -->
+            <!-- /.section-cta -->
 
 
         </div><!-- /.main-content -->

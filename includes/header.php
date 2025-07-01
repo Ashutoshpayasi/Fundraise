@@ -8,12 +8,12 @@
                         <div class="header-content">
                             <div class="header-left">
                                 <div class="logo">
-                                  <a href="index.php">
+                                  <a href="/">
   <img 
     src="image/logo/logo.png" 
     alt="Logo" 
     class="img-fluid" 
-    style="width: 130px;"
+    style="width: 170px;"
   >
 </a>
 
